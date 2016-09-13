@@ -187,6 +187,7 @@ header .header-content .header-content-inner p {
 }
 @media (max-width: 480px) {
   header {
+    display: none;
     margin-top: 40px;
     background-image: url('../img/header_mobile.png');
     min-height: 100%;
