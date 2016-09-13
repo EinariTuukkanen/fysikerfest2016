@@ -185,11 +185,17 @@ header .header-content .header-content-inner p {
   font-size: 16px;
   margin-bottom: 50px;
 }
+header .btn {
+  margin-top: 300px;
+}
 @media (max-width: 480px) {
   header {
     margin-top: 40px;
     background-image: url('../img/header_mobile.png');
     min-height: 100%;
+  }
+  header .btn {
+    margin-top: 240px;
   }
 }
 @media (min-width: 768px) {
