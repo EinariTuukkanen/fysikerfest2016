@@ -160,7 +160,7 @@ header {
   -o-background-size: cover;
   /*background-position: center;*/
   background-image: url('../img/header.png');
-  text-align: center;
+  /*text-align: center;*/
   color: white;
 }
 header .header-content {
