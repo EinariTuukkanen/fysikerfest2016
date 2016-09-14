@@ -447,3 +447,10 @@ a {
 .nav-facebook {
   font-size: 20px;
 }
+.contrast-green {
+  color: #8DC63F;
+}
+.contrast-green:hover,
+.contrast-green:focus {
+  color: #648C2D;
+}
