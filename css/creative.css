@@ -443,6 +443,7 @@ li {
 }
 a {
   font-size: 16px;
+  word-break:break-word;
 }
 .nav-facebook {
   font-size: 20px;
