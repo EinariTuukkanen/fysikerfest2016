@@ -197,6 +197,14 @@ header .btn {
   header .btn {
     margin-top: 240px;
   }
+
+  .schedule {
+    max-width: 300px;
+  }
+
+  #schedule {
+    text-align: center;
+  }
 }
 @media (min-width: 768px) {
   header {
